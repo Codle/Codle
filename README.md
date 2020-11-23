@@ -1,6 +1,6 @@
 ### Hi Everyone 👋
 
-<div aligin="center">
+<div>
   <p>
   <a href="https://github.com/Codle">
   <img src="https://github-readme-stats.vercel.app/api?username=Codle&show_icons=true&theme=onedark" />
