@@ -7,9 +7,8 @@
   </a>
 </div>
 
-- 😊 I'm currently studying in UESTC as a postgraduate.
-- 🔭 I’m currently working on Microsoft as an intern!
-- 🌱 I’m currently researching on Source Code Searching! If you are also interesting in it, welcome to concat me freely!
-- 📫 How to reach me: email to codle@outlook.com.
-- ✨ This is my personal blog site: https://codle.net, welcome to visit!
-
+- 😊 I'm currently studying at UESTC as a postgraduate.
+- 🔭 I’m will work for ByteDance after obtaining a master's degree!
+- 🌱 I’m currently researching on Source Code Searching! If you are also interested in it, welcome to contact me freely!
+- 📫 How to reach me: email codle@outlook.com.
+- ✨ This is my blog site: https://codle.net, welcome to visit!
