@@ -1,9 +1,8 @@
 ### Hi Everyone 👋
 
 
+Welcome to Codle's repo. Please feel free to submit issues with me for any questions.
 
-- I'm currently studying at UESTC as a postgraduate.
-- I’m currently researching on Source Code Searching! If you are also interested in it, welcome to contact me freely!
-- I will work for ByteDance after obtaining a master's degree!
-- How to reach me: email codle@outlook.com.
-- This is my blog site: https://codle.net, welcome to visit!
+- I'm an engineer of AML (Applied Machine Learning) at ByteDance
+- I'm interested in machine learning competitions such as the Tianchi, Kaggle.
+- I wanna be a "real" full-stack engineer, who not only knows about frontend or backend but also machine learning, real-time systems, and distributed systems, etc. 
