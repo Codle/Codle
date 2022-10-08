@@ -1,5 +1,6 @@
 ### Hi Everyone 👋
 
+[Resume](https://yinzq.me/)
 
 Welcome to Zhengqiang's repo. Please feel free to submit issues with me.
 
